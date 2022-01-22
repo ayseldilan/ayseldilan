@@ -7,7 +7,7 @@
 
 </br>
 
-[Inspiration](#Inspiration) | [About Me](#About) | [Highlighted Projects](#Projects) | [Stack & Stats](#Stack) | [Education](#Education)
+[Inspiration](#Inspiration) | [About Me](#About) | [Highlighted Projects](#Projects) | [Education](#Education)
 
  </div>
 
