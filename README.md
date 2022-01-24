@@ -23,7 +23,7 @@ I'm a Full-Stack Developer with 4 years of educational experience. My education 
 
 It didn't take long for me to start developing theoretical solutions for my thesis and essays. In my thesis, I focused on Middle Eastern Studies and War in Syria. 
 
-I always loved finding solutions to theoretical solutions, and now it's time for me to find solutions in tech. Makers Academy were a path way for me to find my passion and unleash into the programming world. Now, I'm excited to put on display the results of my journey so far, and demonstrate my ever increasing tech stack through this portfolio of projects.
+I always loved finding solutions to theoretical problems, and now it's time for me to find solutions in tech. Makers Academy were a path way for me to find my passion and unleash into the programming world. Now, I'm excited to put on display the results of my journey so far, and demonstrate my ever increasing tech stack through this portfolio of projects.
 
 ### <a name="Projects">Highlighted Projects</a>
 
