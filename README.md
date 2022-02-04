@@ -50,7 +50,7 @@ I consider myself language/tool agnostic, I am willing and open to learn new lan
 | Databases  | PostgreSQL, Firebase  , MongoDB                |
 | Tools      | Command-line, Twillo                           |
 | Hosting    | Heroku                                         |
-| Testing    | Capybara, RSpec, Jest, Self-built framework    |
+| Testing    | Capybara, RSpec, Jest,                         |
 
 ---
 
