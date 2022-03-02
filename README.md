@@ -49,7 +49,7 @@ I consider myself language/tool agnostic, I am willing and open to learn new lan
 | Frameworks | React, Express, Rails, Sinatra                 |
 | Databases  | PostgreSQL, Firebase  , MongoDB                |
 | Tools      | Command-line, Twillo                           |
-| Hosting    | Heroku                                         |
+| Hosting    | Firebase                                       |
 | Testing    | Capybara, RSpec, Jest,                         |
 
 ---
