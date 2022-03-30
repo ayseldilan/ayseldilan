@@ -33,7 +33,7 @@ I always loved finding solutions to theoretical problems, and now it's time for 
 ---
 
 ## Projects
-For a complete list, see my [GitHub](https://github.com/ayseldilan/Recipr)
+For a complete list, see my [GitHub](https://github.com/ayseldilan?tab=repositories)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
