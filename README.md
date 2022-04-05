@@ -33,7 +33,7 @@ For a complete list, see my [GitHub](https://github.com/ayseldilan?tab=repositor
 | ---------------------------- | ----------------- | ----------------- |
 | [**Recipr**](https://github.com/ayseldilan/Recipr)| Coming up with receipes can be a daunting tasks for us all. Receipr allows individuals to visually see full data meals using a mealsAPI including instructions and measurements. Using a MERN stack, we build the site using MongoDB and MealDB API. | Mongodb, Express, Node.JS, React, React-Bootstrap, Jest|
 | [**Web3.0**](https://github.com/ayseldilan/web3.0) | This is a code repository for a practicing Web 3.0 methodologies, Solidity and Metamask with the goal to learn and practice how to build a real Web 3.0 Application - from start to finish. I learned how to connect this application to the blockchain and pair it to my Ethereum wallet using Metamask. Wrote smart contracts on the Ethereum network using the Solidity programming language. | React, Solidity, Metamask, Blockchain, Smart Contract|
-| [**Acebook**](https://github.com/ayseldilan/Acebook-Cloudbursters)/ [**Gram**](https://github.com/blessingaliu/Gram)| A social media app where users can connect with family and friends. Consisting of two-front ends; ones rails and the other react using the same back-end platform | Ruby, Rails, Rspec, React, Jest, HTML, CSS, Bootstrap/Sass |
+| [**Acebook**](https://github.com/ayseldilan/Acebook-Cloudbursters) [**Gram**](https://github.com/blessingaliu/Gram)| A social media app where users can connect with family and friends. Consisting of two-front ends; ones rails and the other react using the same back-end platform | Ruby, Rails, Rspec, React, Jest, HTML, CSS, Bootstrap/Sass |
 
 </br>
 
